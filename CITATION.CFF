@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Brewington"
+  given-names: "Jared"
+title: "printable_coil"
+version: 1.0.0
+date-released: 2022-2-2
+url: "https://github.com/jaredBrewington/printable_coil"
